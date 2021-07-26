@@ -62,10 +62,12 @@ OR, company can allocate thier incentive budget to the instances with the highes
 
 **Solution 2:**
 
-Develop learning programs for managers. Then use analytics to gauge their performance and measure progress. Some advice:
+Develop learning programs for managers. Then use analytics to gauge their performance and measure progress. 
 
-Be a good coach
-Empower the team and do not micromanage
-Express interest for team member success
-Have clear vision / strategy for team
-Help team with career development
+Some advice:
+
+*Be a good coach.
+*Empower the team and do not micromanage.
+*Express interest for team member success.
+*Have clear vision / strategy for team.
+*Help team with career development.
