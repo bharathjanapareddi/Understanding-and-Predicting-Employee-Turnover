@@ -1,5 +1,6 @@
 # Understanding-and-Predicting-Employee-Turnover
 **Objective:**
+
 1)To understand what factors contributed most to employee turnover.
 
 2)To perform clustering to find any meaningful patterns of employee traits.
