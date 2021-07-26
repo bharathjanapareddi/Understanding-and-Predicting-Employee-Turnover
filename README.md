@@ -1,4 +1,5 @@
 # Understanding-and-Predicting-Employee-Turnover
+
 **Objective:**
 
 1)To understand what factors contributed most to employee turnover.
@@ -13,6 +14,7 @@ The implementation of this model will allow management to create better decision
 
 
 **The Problem:**
+
 One of the most common problems for companies is turnover.
 
 Replacing a worker earning about 50,000 dollars cost the company about 10,000 dollars or 20% of that worker’s yearly income according to the Center of American Progress.
@@ -40,6 +42,7 @@ Jobs (earning 30k-50k a year) - the cost to replace a 40k manager would be 8,000
 Jobs of executives (earning 100k+ a year) - the cost to replace a 100k CEO is 213,000 dollars.
 
 **Conclusion**
+
 **Binary Classification:** Turnover V.S. Non Turnover
 
 **Instance Scoring:** Likelihood of employee responding to an offer/incentive to save them from leaving.
